@@ -1,5 +1,3 @@
-# Option_Pricing_and_Parameter_Estimater
-Option pricing using FFT &amp; Parameter Estimater using Particle Filter &amp; EM
 
 ## Development Tools
 
