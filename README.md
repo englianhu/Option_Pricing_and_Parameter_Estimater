@@ -25,3 +25,12 @@ Compare DFT & FFT efficiency with pricing time
 
 [Code] (https://github.com/rorysroes/Option_Pricing_and_Parameter_Estimater/blob/master/SV_Model_Parameter_Estimate_Using_Particle_Filter_EM.ipynb):
 This project I implemented Particle Farticle(sequential importance resampling algorithm)(SIR) algorithm and Expectation-maximization algorithm to estimate parameters.
+
+Resampling Method
+
+<img src="./Img/Resampling.png" width="650">
+
+[Learning from Udacity] (https://classroom.udacity.com/courses/cs373/lessons/48739381/concepts/487350240923)
+
+
+
