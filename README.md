@@ -32,5 +32,15 @@ Resampling Method
 
 [Learning from Udacity] (https://classroom.udacity.com/courses/cs373/lessons/48739381/concepts/487350240923)
 
+EM Algorithm
+
+<img src="./Img/EM.png" width="650">
+
+Tracing Outcomes
+
+<img src="./Img/Trace.png" width="650">
+
+
+
 
 
