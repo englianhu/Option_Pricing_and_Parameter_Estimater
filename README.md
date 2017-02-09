@@ -40,6 +40,10 @@ Tracing Outcomes
 
 <img src="./Img/Trace.png" width="650">
 
+Estimating Parameters
+
+<img src="./Img/para.png" width="650">
+
 
 
 
