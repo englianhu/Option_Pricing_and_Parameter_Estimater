@@ -1,11 +1,10 @@
 # Option_Pricing_and_Parameter_Estimater
 Option pricing using FFT &amp; Parameter Estimater using Particle Filter &amp; EM
 
-# Development Tools
-```
+## Development Tools
+
 Python - math, numpy, scipy
 
-```
 ## Implement Option pricing using FFT
 
 [Code] (https://github.com/rorysroes/Option_Pricing_and_Parameter_Estimater/blob/master/Option_Pricing_Using_DFT_FFT.ipynb):
