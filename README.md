@@ -34,7 +34,7 @@ Resampling Method
 
 EM Algorithm
 
-<img src="./Img/EM.png" width="650">
+<img src="./Img/EM.png" width="350">
 
 Tracing Outcomes
 
